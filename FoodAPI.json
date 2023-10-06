@@ -104,8 +104,21 @@
             "id": 11,
             "name": "French fries",
             "image": "https://wallpaperaccess.com/full/1747258.jpg",
-            "price": "30",
+            "price": "60",
+            "rate": "4.7",
+            "time": "15",
+            "calories": "345",
             "descriptions": "French fries are a beloved side dish made from sliced potatoes that are typically deep-fried until golden and crispy. They're seasoned with salt and can be enjoyed on their own or paired with various dipping sauces. These thin and crunchy delights are a popular snack around the world, known for their satisfying texture and comforting taste."
+        },
+        {
+            "id": 12,
+            "name": "Bread Pakora",
+            "image": "https://media.istockphoto.com/id/1294561361/photo/street-food-bread-pakora.jpg?s=612x612&w=0&k=20&c=iD-ykuRv1705rAUeRMKX-GdT5OGdNb2sIp0BvmCuCMg=",
+            "price": "30",
+            "rate": "4.6",
+            "time": "10",
+            "calories": "200",
+            "descriptions": "A popular Indian street food, bread pakora is a deep-fried snack made from bread slices that are stuffed with a spicy potato filling. The bread is dipped in a chickpea flour batter and deep-fried until golden and crispy. The result is a crunchy and savory delight that's often enjoyed with a side of chutney or ketchup."
         }
     ],
     "GujaratiFoodAPI": [
@@ -180,7 +193,7 @@
             "descriptions": "Shrikhand: Indulge in the sublime sweetness of our Shrikhand, a beloved Indian dessert. Made from strained yogurt, Shrikhand is a creamy delicacy that's delicately flavored with saffron, cardamom, and a hint of rose water. Its velvety texture is complemented by the aromatic spices, creating a symphony of flavors that dance on the palate. Whether enjoyed on its own or as a luxurious accompaniment to puris, Shrikhand is a decadent treat that captures the essence of Indian culinary artistry, offering a blissful and fragrant journey through each spoonful."
         }
     ],
-    "Punjabi Food": [
+    "PunjabiFood": [
         {
             "id": 1,
             "name": "Sarso Da Saag and Makki Di Roti",
@@ -268,6 +281,9 @@
             "name": "Margherita",
             "image": "https://www.stroke.org/-/media/aha/recipe/recipe-images/classic-margherita-pizza-with-whole-wheat-pizza-crust.jpg",
             "price": "99",
+            "rate": "4.5",
+            "time": "5",
+            "calories": "266",
             "descriptions": "Margherita pizza is a classic Italian creation, known for its simplicity and exquisite flavors. It features a thin, crispy crust topped with rich tomato sauce, fresh mozzarella cheese, and fragrant basil leaves. The combination of these high-quality ingredients creates a harmonious balance of taste, making Margherita pizza a timeless favorite among pizza enthusiasts worldwide."
         },
         {
@@ -275,6 +291,9 @@
             "name": "Farm House",
             "image": "https://thebakernest.com/wp-content/uploads/2021/04/Farm-House-Pizza.jpg",
             "price": "139",
+            "rate": "4.3",
+            "time": "7",
+            "calories": "259",
             "descriptions": "Farmhouse pizza is a hearty and satisfying choice that brings the rustic flavors of the countryside to your plate. This pizza typically showcases a thin or thick crust topped with a medley of ingredients like smoky ham, savory sausage, fresh vegetables like bell peppers, mushrooms, and onions, all crowned with gooey mozzarella cheese. The blend of these savory components results in a pizza that's both comforting and packed with diverse flavors."
         },
         {
@@ -282,6 +301,9 @@
             "name": "Peppy Paneer",
             "image": "https://d3gy1em549lxx2.cloudfront.net/13677188-6708-443e-b1e9-ddface810db8.jpg",
             "price": "199",
+            "rate": "4.6",
+            "time": "6",
+            "calories": "300",
             "descriptions": "Peppy Paneer pizza is a delightful fusion of Indian and Italian cuisine. With a crispy crust as the base, it's generously smeared with tangy tomato sauce and layered with chunks of marinated paneer (Indian cottage cheese), vibrant bell peppers, onions, and aromatic spices. The combination of the paneer's creamy texture and the zesty flavors of the toppings creates a uniquely satisfying pizza experience with a hint of Indian flair."
         },
         {
@@ -289,6 +311,9 @@
             "name": "Mexican Green Wave",
             "image": "https://www.antonio-carluccio.com/wp-content/uploads/2020/07/Mexican-Green-Wave-pizza-845x627.jpg",
             "price": "299",
+            "rate": "4.0",
+            "time": "8",
+            "calories": "290",
             "descriptions": "The Mexican Green Wave pizza offers a zesty and vibrant twist to traditional pizza. Featuring a flavorful thin or thick crust, it's adorned with zesty salsa sauce and topped with a mix of fresh ingredients like jalapeños, bell peppers, red onions, and sometimes even corn and black beans. The melty cheese adds a creamy balance to the spiciness, resulting in a pizza that captures the essence of Mexican cuisine with a delicious kick."
         },
         {
@@ -296,6 +321,9 @@
             "name": "Deluxe Veggie",
             "image": "https://c4.wallpaperflare.com/wallpaper/234/543/684/food-pizza-wallpaper-preview.jpg",
             "price": "159",
+            "rate": "4.5",
+            "time": "10",
+            "calories": "267",
             "descriptions": "The Deluxe Veggie pizza is a vegetarian delight that combines an array of colorful and nutritious toppings. The crust serves as a foundation for a rich tomato sauce and a medley of fresh vegetables such as mushrooms, bell peppers, red onions, olives, and sometimes even spinach. This pizza is a symphony of flavors and textures, with the vegetables' natural sweetness and the tangy tomato sauce working harmoniously to create a satisfying and well-rounded culinary experience."
         },
         {
@@ -303,6 +331,9 @@
             "name": "Veg Extravaganza",
             "image": "https://c4.wallpaperflare.com/wallpaper/1017/647/742/cheese-pizza-tomatoes-olives-bacon-hd-wallpaper-preview.jpg",
             "price": "259",
+            "rate": "4.7",
+            "time": "8",
+            "calories": "269",
             "descriptions": "The Veg Extravaganza pizza is a feast for vegetarian pizza enthusiasts. It boasts a generous spread of tomato sauce on a crispy crust, adorned with a lavish assortment of vibrant and flavorful toppings. This includes a diverse mix of vegetables like bell peppers, red onions, mushrooms, sweet corn, and black olives, creating a symphony of colors and tastes. The blend of these fresh ingredients and melted cheese results in a pizza that lives up to its extravagant name, offering a true celebration of vegetarian flavors."
         },
         {
@@ -310,15 +341,21 @@
             "name": "Cheese n Corn",
             "image": "https://data2.1freewallpapers.com/download/corn-cheese-pizza-1920x1200.jpg",
             "price": "99",
+            "rate": "4.6",
+            "time": "5",
+            "calories": "312",
             "descriptions": "Cheese n Corn pizza is a simple yet satisfying option that caters to those who enjoy the essence of cheesy goodness. This pizza features a buttery crust topped with a layer of creamy, melted cheese, complemented by the sweetness of golden corn kernels. The minimalistic combination of cheese and corn creates a harmonious blend of flavors and textures, making it a comfort food choice for those looking for a lighter and delightful pizza experience."
         }
     ],
-    "Rolls":[
+    "Rolls": [
         {
             "id": 1,
             "name": "Paneer Tikka Roll",
             "image": "https://1.bp.blogspot.com/-YMiG9Fczylc/WJSmtZMNQ3I/AAAAAAAAAzs/6ru2B_ipb4QTolRgXRnhOwp3e_uvOLi7wCEw/s1600/Paneer%2Btikka%2Bkathi%2Broll%2B3.jpg",
             "price": "50",
+            "rate": "4.5",
+            "time": "8",
+            "calories": "320",
             "descriptions": "Paneer Tikka Roll is a popular Indian street food and appetizer. It features marinated cubes of paneer (Indian cottage cheese) that are skewered and grilled until smoky and tender. These flavorful paneer pieces are then wrapped in a soft roti or flatbread along with fresh veggies and tangy sauces, creating a delightful and satisfying roll that combines spicy and savory flavors."
         },
         {
@@ -326,6 +363,9 @@
             "name": "Veggie Roll",
             "image": "https://c1.wallpaperflare.com/preview/564/844/49/nem-chinese-vegetables-chinese-cabbage.jpg",
             "price": "40",
+            "rate": "3.9",
+            "time": "4",
+            "calories": "234",
             "descriptions": "A Veggie Roll is a delightful dish made by wrapping a variety of sautéed or grilled vegetables in a soft flatbread or tortilla. This roll is often accompanied by a flavorful sauce or dressing, enhancing the combination of textures and tastes. It's a popular choice among vegetarians and those looking for a wholesome and tasty meal on the go."
         },
         {
@@ -333,44 +373,164 @@
             "name": "Pizza Bread Roll",
             "image": "https://i.pinimg.com/originals/73/02/dc/7302dcdd279c8f5fcae6d337c31f8df1.jpg",
             "price": "80",
+            "rate": "4.0",
+            "time": "6",
+            "calories": "256",
             "descriptions": "A Pizza Bread Roll is a delightful snack that combines the flavors of pizza with a convenient, handheld form. It's made by spreading pizza sauce and cheese over a slice of bread, adding toppings like pepperoni, vegetables, or other favorite pizza ingredients, and then rolling it up tightly. The roll is usually baked until the bread is crispy and the cheese is melted, resulting in a portable and flavorful treat reminiscent of pizza flavors."
         }
     ],
-    "Burger":[
+    "Burger": [
         {
-            "id" : 1,
-            "name":"Aloo Tikki Burger",
+            "id": 1,
+            "name": "Aloo Tikki Burger",
             "image": "https://e1.pxfuel.com/desktop-wallpaper/738/971/desktop-wallpaper-maccas-first-veggie-burger-is-here-but-it-s-not-strictly-vegetarian-veggie-burger-thumbnail.jpg",
             "price": "59",
+            "rate": "3.8",
+            "time": "3",
+            "calories": "370",
             "descriptions": "An Aloo Tikki Burger is a fusion of Indian and Western cuisines. It consists of a spicy and flavorful potato patty (Aloo Tikki) served inside a burger bun. The patty is typically made from mashed potatoes mixed with spices, and it's pan-fried until crispy. It's often garnished with sauces, lettuce, and other toppings to create a mouthwatering combination of Indian and burger flavors."
         },
         {
-            "id" : 2,
-            "name":"Paner Grilled Burger",
+            "id": 2,
+            "name": "Paner Grilled Burger",
             "image": "https://c4.wallpaperflare.com/wallpaper/27/130/518/hamburger-cheeseburger-sandwich-snack-food-wallpaper-preview.jpg",
             "price": "79",
+            "rate": "4.2",
+            "time": "5",
+            "calories": "289",
             "descriptions": "A Paneer Grilled Burger features a vegetarian patty made from paneer, a type of Indian cottage cheese, marinated in flavorful spices and then grilled to perfection. This burger is a delightful blend of Indian and Western tastes, with the paneer patty offering a creamy texture and a smoky, grilled flavor. It's usually served in a burger bun with accompaniments like lettuce, tomatoes, onions, and various sauces for a satisfying and savory meal."
         },
         {
-            "id" : 3,
-            "name":"Veg Club Burger",
+            "id": 3,
+            "name": "Veg Club Burger",
             "image": "https://e1.pxfuel.com/desktop-wallpaper/175/824/desktop-wallpaper-veg-burger-veggie-burger.jpg",
             "price": "89",
+            "rate": "4.6",
+            "time": "10",
+            "calories": "398",
             "descriptions": "A Veg Club Burger is a hearty vegetarian sandwich that typically features multiple layers of delicious fillings. It includes a combination of ingredients such as vegetable patties, lettuce, tomato, cheese, and various sauces, all sandwiched between layers of toasted burger buns. This burger is known for its satisfying and diverse flavors, making it a popular choice among vegetarians and burger enthusiasts."
         },
         {
-            "id" : 4,
-            "name":"Double Patty Burger",
+            "id": 4,
+            "name": "Double Patty Burger",
             "image": "https://cdn.pixabay.com/photo/2022/08/31/10/17/burger-7422970_960_720.jpg",
             "price": "99",
+            "rate": "4.3",
+            "time": "7",
+            "calories": "324",
             "descriptions": "A Double Patty Burger is a burger that features not one but two meat or veggie patties stacked on top of each other. This burger is known for its indulgent and hearty nature, offering a generous portion of protein between the buns. It's often complemented with a variety of toppings like cheese, lettuce, tomato, onions, and condiments to create a flavorful and substantial meal for those with a big appetite."
         },
         {
-            "id" : 5,
-            "name":"Tandoori Paneer Burger",
+            "id": 5,
+            "name": "Tandoori Paneer Burger",
             "image": "https://e1.pxfuel.com/desktop-wallpaper/961/317/desktop-wallpaper-roasted-vegetable-burger-recipe-with-hummus-by-archana-s-kitchen-veggie-burger.jpg",
             "price": "69",
+            "rate": "4.8",
+            "time": "7",
+            "calories": "279",
             "descriptions": "A Tandoori Paneer Burger is a fusion delight, featuring a grilled paneer patty marinated in tandoori spices, served in a burger bun with Indian and Western toppings for a spicy and flavorful experience."
+        }
+    ],
+    "Cake":[
+        {
+            "id": 1,
+            "name": "Chocolate Cake",
+            "image": "https://w0.peakpx.com/wallpaper/922/674/HD-wallpaper-chocolate-cake-cake-food-chocolate-black-sweet-dessert.jpg",
+            "price": "159",
+            "rate": "4.5",
+            "time": "10",
+            "calories": "267",
+            "descriptions": "Chocolate Cake: A chocolate cake is a cake made with chocolate or cocoa powder. The ingredients are put into a bowl and mixed together; then the mixed ingredients are put into a cake tin and put in an oven until it is fully cooked. A chocolate cake is sometimes eaten with ice cream or whipped cream."
+        },
+        {
+            "id": 2,
+            "name": "Red Velvet Cake",
+            "image": "https://theobroma.in/cdn/shop/products/RedVelvetCake1.jpg?v=1632143747",
+            "price": "139",
+            "rate": "4.3",
+            "time": "7",
+            "calories": "259",
+            "descriptions": "Red Velvet Cake: Red velvet cake is traditionally a red, red-brown, crimson or scarlet-colored chocolate layer cake, layered with ermine icing. Traditional recipes do not use food coloring, with the red color due to non-Dutched, anthocyanin-rich cocoa."
+        },
+        {
+            "id": 3,
+            "name": "Black Forest Cake",
+            "image": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxhY2slMjBmb3Jlc3QlMjBjYWtlfGVufDB8fDB8fHww&w=1000&q=80",
+            "price": "259",
+            "rate": "4.7",
+            "time": "8",
+            "calories": "269",
+            "descriptions": "Black Forest Cake: Black Forest gâteau or Black Forest cake is a chocolate sponge cake with a rich cherry filling based on the German dessert Schwarzwälder Kirschtorte, literally 'Black Forest Cherry-torte'. Typically, Black Forest gateau consists of several layers of chocolate sponge cake sandwiched with whipped cream and cherries."
+        },
+        {
+            "id": 4,
+            "name": "Pineapple Cake",
+            "image": "https://cdn.igp.com/f_auto,q_auto,t_prodm/products/p-pineapple-cake-with-cherry-toppings-1-kg--16989-m.jpg",
+            "price": "99",
+            "rate": "4.6",
+            "time": "5",
+            "calories": "312",
+            "descriptions": "Pineapple Cake: Pineapple cake is a traditional Taiwanese cake that is soft and spongy in texture. The pineapple filling is not overly sweet and has a jam-like texture. The cake is usually topped with a cherry, which gives it an attractive color contrast."
+        },
+        {
+            "id": 5,
+            "name": "Butterscotch Cake",
+            "image": "https://stylesatlife.com/wp-content/uploads/2022/11/Classic-Butterscotch-Birthday-Cake.jpg",
+            "price": "99",
+            "rate": "4.6",
+            "time": "5",
+            "calories": "312",
+            "descriptions": "Butterscotch Cake: Butterscotch is a type of confectionery whose primary ingredients are brown sugar and butter, but other ingredients are part of some recipes, such as corn syrup, cream, vanilla, and salt. The earliest known recipes in the middle 19th century used treacle in place of or in addition to sugar."           
+        },
+        {
+            "id": 6,
+            "name": "Strawberry Cake",
+            "image": "https://w0.peakpx.com/wallpaper/863/651/HD-wallpaper-red-cake-pastries-desserts-cakes-strawberry-cake-berry-cake.jpg",
+            "price": "99",
+            "rate": "4.6",
+            "time": "5",
+            "calories": "312",
+            "descriptions": "Strawberry Cake: Strawberry cake is a cake that uses strawberry as a primary ingredient. Strawberries may be used in the cake batter, atop cakes and in a strawberry cake's frosting. Some are served chilled or partially frozen, and they are sometimes served as a Valentine's Day dish."
+        },
+        {
+            "id": 7,
+            "name": "Vanilla Cake",
+            "image": "https://w0.peakpx.com/wallpaper/641/913/HD-wallpaper-snowy-vanilla-cake-cake-graphy-vanilla-christmas-oraments-abstract.jpg",
+            "price": "99",
+            "rate": "4.6",
+            "time": "5",
+            "calories": "312",
+            "descriptions": "Vanilla Cake: Vanilla cake is a type of sponge cake made with vanilla extract. It is lighter than a butter cake and has a more open-textured crumb. This type of cake is usually prepared using the creaming method, but the reverse creaming method results in a noticeably different texture and is often used in conjunction with an oil-based recipe."
+        },
+        {
+            "id": 8,
+            "name": "Fruit Cake",
+            "image": "https://c4.wallpaperflare.com/wallpaper/897/791/721/dessert-chocolate-cake-torte-pie-wallpaper-preview.jpg",
+            "price": "99",
+            "rate": "4.6",
+            "time": "5",
+            "calories": "312",
+            "descriptions": "Fruit Cake: Fruitcake is a cake made with candied or dried fruit, nuts, and spices, and optionally soaked in spirits. In the United Kingdom, certain rich versions may be iced and decorated. Fruitcakes are typically served in celebration of weddings and Christmas."
+        },
+        {
+            "id": 9,
+            "name": "Coffee Cake",
+            "image": "https://4.bp.blogspot.com/-S7dIGehxwqQ/XKJQ3onBWQI/AAAAAAAAFPM/HwFc33Cjfms_7jYW7nx047HiwjYSvcPPACLcBGAs/s1600/Coffee%2BCake.jpg",
+            "price": "99",
+            "rate": "4.6",
+            "time": "5",
+            "calories": "312",
+            "descriptions": "Coffee Cake: Coffee cake is any cake flavored with or intended to be eaten with coffee. British coffee cake is typically a sponge cake flavored with coffee, typically baked in a circular shape with two layers separated by coffee butter icing, which also covers the top of the cake."
+        },
+        {
+            "id": 10,
+            "name": "Carrot Cake",
+            "image": "https://inbloombakery.com/wp-content/uploads/2022/04/carrot-cake-featured-image.jpg",
+            "price": "99",
+            "rate": "4.6",
+            "time": "5",
+            "calories": "312",
+            "descriptions": "Carrot Cake: Carrot cake is a cake that contains carrots mixed into the batter. Most modern carrot cake recipes have a white cream cheese frosting. Sometimes pecans, pineapple, and shredded coconut is added in the mix."
         }
     ]
 }
