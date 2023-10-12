@@ -347,7 +347,7 @@
             "descriptions": "Cheese n Corn pizza is a simple yet satisfying option that caters to those who enjoy the essence of cheesy goodness. This pizza features a buttery crust topped with a layer of creamy, melted cheese, complemented by the sweetness of golden corn kernels. The minimalistic combination of cheese and corn creates a harmonious blend of flavors and textures, making it a comfort food choice for those looking for a lighter and delightful pizza experience."
         }
     ],
-    "Rolls": [
+    "RollsFoodAPI": [
         {
             "id": 1,
             "name": "Paneer Tikka Roll",
@@ -379,7 +379,7 @@
             "descriptions": "A Pizza Bread Roll is a delightful snack that combines the flavors of pizza with a convenient, handheld form. It's made by spreading pizza sauce and cheese over a slice of bread, adding toppings like pepperoni, vegetables, or other favorite pizza ingredients, and then rolling it up tightly. The roll is usually baked until the bread is crispy and the cheese is melted, resulting in a portable and flavorful treat reminiscent of pizza flavors."
         }
     ],
-    "Burger": [
+    "BurgerFoodAPI": [
         {
             "id": 1,
             "name": "Aloo Tikki Burger",
@@ -431,7 +431,7 @@
             "descriptions": "A Tandoori Paneer Burger is a fusion delight, featuring a grilled paneer patty marinated in tandoori spices, served in a burger bun with Indian and Western toppings for a spicy and flavorful experience."
         }
     ],
-    "Cake":[
+    "Cake": [
         {
             "id": 1,
             "name": "Chocolate Cake",
@@ -480,7 +480,7 @@
             "rate": "4.6",
             "time": "5",
             "calories": "312",
-            "descriptions": "Butterscotch Cake: Butterscotch is a type of confectionery whose primary ingredients are brown sugar and butter, but other ingredients are part of some recipes, such as corn syrup, cream, vanilla, and salt. The earliest known recipes in the middle 19th century used treacle in place of or in addition to sugar."           
+            "descriptions": "Butterscotch Cake: Butterscotch is a type of confectionery whose primary ingredients are brown sugar and butter, but other ingredients are part of some recipes, such as corn syrup, cream, vanilla, and salt. The earliest known recipes in the middle 19th century used treacle in place of or in addition to sugar."
         },
         {
             "id": 6,
